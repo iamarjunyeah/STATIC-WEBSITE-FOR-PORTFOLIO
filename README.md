@@ -6,4 +6,4 @@ DOMAIN : SOFTWARE DEVELOPMENT
 BATCH DURATION :JANUARY 30TH,2025 TO MARCH 1ST,2025.
 MENTOR NAME :NEELA SANTHOSH KUMAR 
 OUTPUT 
-![Image](https://github.com/user-attachments/assets/21289382-18ab-48db-9ae2-74362f8af37f)
+![Image](https://github.com/user-attachments/assets/5d0cf7a5-dd70-4814-bfe6-36b98f21d60f)
